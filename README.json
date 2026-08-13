@@ -1,0 +1,122 @@
+{
+  "items": [
+    {
+      "description": "This repository follows the OpenClaw Research taxonomy: instead of grouping work only by task domain, it organizes papers by the main sandbox boundary they relax in open deployment. In this setting, agents may evolve after release, interact with untrusted tools and environments, coexist with open populations of humans and agents, and rely on persistent runtime substrates.",
+      "items": [],
+      "title": "🧭 Reading Guide"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📄 Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open Policy: Learning and Evolving"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Component Level"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Individual Level"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Population Level"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open Environment: Safety and Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Threat Landscape"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Defense Mechanisms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open Population: Claw Society"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Emergent Characteristics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Structural Failures & Design"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Human–AI Collaboration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open Substrate: Infrastructure and Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Infrastructure of Claw"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Claw as Infrastructure"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Embodied Claws"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mobile Claws"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scientific Claws"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Clinical Claws"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📦 Other Resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:26:40.936Z",
+    "original_repository": "shuolucs/Awesome-OpenClaw-Research",
+    "original_repository_sha": "7fff6df962cb65ad1ae1c46be3802625d1b07880",
+    "enhanced_repository": "enhansome/enhansome-Awesome-OpenClaw-Research",
+    "enhanced_repository_description": null,
+    "title": "Awesome-OpenClaw-Research with stars"
+  }
+}
