@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 1014729376,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-26T10:41:08Z",
+                    "last_commit": "2026-08-26T17:18:47Z",
                     "owner": "MemTensor",
                     "repo": "MemOS",
-                    "stars": 11000
+                    "stars": 11034
                   }
                 },
                 {
@@ -31,10 +31,10 @@
                     "archived": false,
                     "id": 1128123594,
                     "language": "Python",
-                    "last_commit": "2026-08-26T10:44:33Z",
+                    "last_commit": "2026-08-27T10:33:20Z",
                     "owner": "volcengine",
                     "repo": "OpenViking",
-                    "stars": 33456
+                    "stars": 33757
                   }
                 },
                 {
@@ -46,10 +46,10 @@
                     "archived": false,
                     "id": 1024554267,
                     "language": "Python",
-                    "last_commit": "2026-08-26T11:03:38Z",
+                    "last_commit": "2026-08-27T11:19:26Z",
                     "owner": "NousResearch",
                     "repo": "hermes-agent",
-                    "stars": 236641
+                    "stars": 237131
                   }
                 },
                 {
@@ -64,7 +64,7 @@
                     "last_commit": "2026-08-19T03:35:13Z",
                     "owner": "aiming-lab",
                     "repo": "AutoResearchClaw",
-                    "stars": 14240
+                    "stars": 14258
                   }
                 },
                 {
@@ -116,7 +116,7 @@
                     "last_commit": "2026-05-23T04:17:31Z",
                     "owner": "Gen-Verse",
                     "repo": "OpenClaw-RL",
-                    "stars": 5654
+                    "stars": 5657
                   }
                 },
                 {
@@ -131,7 +131,7 @@
                     "last_commit": "2026-06-07T04:57:05Z",
                     "owner": "aiming-lab",
                     "repo": "MetaClaw",
-                    "stars": 3496
+                    "stars": 3497
                   }
                 },
                 {
@@ -146,7 +146,7 @@
                     "last_commit": "2026-08-24T18:10:46Z",
                     "owner": "AgentR1",
                     "repo": "Agent-R1",
-                    "stars": 1633
+                    "stars": 1634
                   }
                 }
               ],
@@ -168,7 +168,7 @@
                     "last_commit": "2026-08-17T08:48:07Z",
                     "owner": "AMAP-ML",
                     "repo": "SkillClaw",
-                    "stars": 2510
+                    "stars": 2518
                   }
                 },
                 {
@@ -183,7 +183,7 @@
                     "last_commit": "2026-05-28T15:17:11Z",
                     "owner": "sjtu-sai-agents",
                     "repo": "EvoMaster",
-                    "stars": 218
+                    "stars": 219
                   }
                 }
               ],
@@ -272,7 +272,7 @@
                     "last_commit": "2026-08-26T04:02:00Z",
                     "owner": "claw-eval",
                     "repo": "claw-eval",
-                    "stars": 757
+                    "stars": 759
                   }
                 },
                 {
@@ -431,10 +431,10 @@
                     "archived": false,
                     "id": 1146738089,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-26T04:52:28Z",
+                    "last_commit": "2026-08-26T21:09:22Z",
                     "owner": "nanocoai",
                     "repo": "nanoclaw",
-                    "stars": 30623
+                    "stars": 30628
                   }
                 },
                 {
@@ -449,7 +449,7 @@
                     "last_commit": "2026-08-19T09:17:33Z",
                     "owner": "sipeed",
                     "repo": "picoclaw",
-                    "stars": 29909
+                    "stars": 29912
                   }
                 },
                 {
@@ -464,7 +464,7 @@
                     "last_commit": "2026-08-03T11:24:42Z",
                     "owner": "cft0808",
                     "repo": "edict",
-                    "stars": 16520
+                    "stars": 16662
                   }
                 },
                 {
@@ -523,7 +523,7 @@
                     "last_commit": "2026-04-10T15:04:16Z",
                     "owner": "RoboClaw-Robotics",
                     "repo": "RoboClaw",
-                    "stars": 149
+                    "stars": 151
                   }
                 },
                 {
@@ -538,7 +538,7 @@
                     "last_commit": "2026-08-17T15:37:05Z",
                     "owner": "MINT-SJTU",
                     "repo": "RoboClaw",
-                    "stars": 538
+                    "stars": 539
                   }
                 },
                 {
@@ -553,7 +553,7 @@
                     "last_commit": "2026-03-03T23:36:48Z",
                     "owner": "PlaiPin",
                     "repo": "rosclaw",
-                    "stars": 631
+                    "stars": 627
                   }
                 },
                 {
@@ -635,7 +635,7 @@
                     "last_commit": "2026-08-19T03:35:13Z",
                     "owner": "aiming-lab",
                     "repo": "AutoResearchClaw",
-                    "stars": 14240
+                    "stars": 14258
                   }
                 },
                 {
@@ -672,7 +672,7 @@
                     "last_commit": "2026-07-21T01:01:51Z",
                     "owner": "FreedomIntelligence",
                     "repo": "OpenClaw-Medical-Skills",
-                    "stars": 2973
+                    "stars": 2975
                   }
                 }
               ],
@@ -752,10 +752,10 @@
             "archived": false,
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T11:04:05Z",
+            "last_commit": "2026-08-27T11:21:17Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387677
+            "stars": 387779
           }
         }
       ],
@@ -812,7 +812,7 @@
             "last_commit": "2026-08-19T03:35:13Z",
             "owner": "aiming-lab",
             "repo": "AutoResearchClaw",
-            "stars": 14240
+            "stars": 14258
           }
         },
         {
@@ -827,7 +827,7 @@
             "last_commit": "2026-07-21T01:01:51Z",
             "owner": "FreedomIntelligence",
             "repo": "OpenClaw-Medical-Skills",
-            "stars": 2973
+            "stars": 2975
           }
         },
         {
@@ -944,7 +944,7 @@
             "last_commit": "2026-07-02T01:44:55Z",
             "owner": "pinchbench",
             "repo": "skill",
-            "stars": 1324
+            "stars": 1327
           }
         }
       ],
@@ -965,7 +965,7 @@
             "last_commit": "2026-06-12T01:58:37Z",
             "owner": "BytePioneer-AI",
             "repo": "openclaw-china",
-            "stars": 3968
+            "stars": 3965
           }
         }
       ],
@@ -986,7 +986,7 @@
             "last_commit": "2026-08-25T07:14:23Z",
             "owner": "Anil-matcha",
             "repo": "awesome-openclaw",
-            "stars": 997
+            "stars": 996
           }
         },
         {
@@ -1016,7 +1016,7 @@
             "last_commit": "2026-08-23T08:45:20Z",
             "owner": "VoltAgent",
             "repo": "awesome-openclaw-skills",
-            "stars": 52183
+            "stars": 52201
           }
         },
         {
@@ -1054,9 +1054,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:05:50.180Z",
-    "original_repository": "shuolucs/Awesome-OpenClaw-Research",
-    "original_repository_id": 1191252067,
+    "last_updated": "2026-08-27T11:23:38.802Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1191252067,
+      "language": null,
+      "last_commit": "2026-07-05T03:02:02Z",
+      "owner": "shuolucs",
+      "repo": "Awesome-OpenClaw-Research",
+      "stars": 340
+    },
     "original_repository_sha": "7fff6df962cb65ad1ae1c46be3802625d1b07880",
     "enhanced_repository": "enhansome/enhansome-Awesome-OpenClaw-Research",
     "enhanced_repository_description": null,
