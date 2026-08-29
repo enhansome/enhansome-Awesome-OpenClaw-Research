@@ -14,12 +14,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
+                    "homepage": "https://memos.openmem.net",
                     "id": 1014729376,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T08:35:30Z",
+                    "open_issues": 58,
                     "owner": "MemTensor",
                     "repo": "MemOS",
-                    "stars": 11068
+                    "stars": 11071,
+                    "topics": [
+                      "agent",
+                      "agentic-ai",
+                      "ai",
+                      "ai-agents",
+                      "chatgpt",
+                      "claude",
+                      "deepseek-harness",
+                      "dsh-plugin",
+                      "hermes",
+                      "llm",
+                      "long-term-memory",
+                      "mcp",
+                      "memory",
+                      "memory-management",
+                      "openclaw",
+                      "rag",
+                      "self-evolving",
+                      "self-hosted",
+                      "skills",
+                      "token-savings"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -30,12 +56,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+                    "homepage": "https://openviking.ai/",
                     "id": 1128123594,
                     "language": "Python",
-                    "last_commit": "2026-08-28T17:26:29Z",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-08-29T04:49:08Z",
+                    "open_issues": 565,
                     "owner": "volcengine",
                     "repo": "OpenViking",
-                    "stars": 34130
+                    "stars": 34166,
+                    "topics": [
+                      "agent-memory",
+                      "agent-plugins",
+                      "agentic-rag",
+                      "context-database",
+                      "dsh-plugin",
+                      "self-evolving"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -46,12 +84,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The agent that grows with you",
+                    "homepage": "https://hermes-agent.nousresearch.com",
                     "id": 1024554267,
                     "language": "Python",
-                    "last_commit": "2026-08-28T20:58:45Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T04:39:01Z",
+                    "open_issues": 37201,
                     "owner": "NousResearch",
                     "repo": "hermes-agent",
-                    "stars": 237715
+                    "stars": 237808,
+                    "topics": [
+                      "ai",
+                      "ai-agent",
+                      "ai-agents",
+                      "anthropic",
+                      "chatgpt",
+                      "claude",
+                      "claude-code",
+                      "codex",
+                      "hermes",
+                      "hermes-agent",
+                      "llm",
+                      "nous-research",
+                      "openai"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -62,12 +119,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+                    "homepage": null,
                     "id": 1182108611,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T03:35:13Z",
+                    "open_issues": 8,
                     "owner": "aiming-lab",
                     "repo": "AutoResearchClaw",
-                    "stars": 14267
+                    "stars": 14270,
+                    "topics": [
+                      "autonomous-research",
+                      "citation-verification",
+                      "llm-agents",
+                      "metaclaw",
+                      "multi-agent-debate",
+                      "openclaw",
+                      "paper-generation",
+                      "scientific-discovery",
+                      "self-evolving"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -78,12 +150,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
+                    "homepage": "http://scienceclaw.science",
                     "id": 1178834224,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-06-08T13:27:28Z",
+                    "open_issues": 9,
                     "owner": "beita6969",
                     "repo": "ScienceClaw",
-                    "stars": 885
+                    "stars": 885,
+                    "topics": [
+                      "ai",
+                      "ai-agent",
+                      "bioinformatics",
+                      "literature-review",
+                      "llm",
+                      "mcp",
+                      "meta-analysis",
+                      "openclaw",
+                      "pubmed",
+                      "research",
+                      "research-tools",
+                      "science",
+                      "scientific-research",
+                      "self-evolving",
+                      "zero-hallucination"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -94,12 +187,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SemaClaw is an open-source framework for general-purpose personal AI agents.",
+                    "homepage": null,
                     "id": 1196718794,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-09T05:46:37Z",
+                    "open_issues": 0,
                     "owner": "midea-ai",
                     "repo": "SemaClaw",
-                    "stars": 82
+                    "stars": 82,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 }
@@ -117,12 +215,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OpenClaw-RL: Train any agent simply by talking",
+                    "homepage": "https://arxiv.org/abs/2603.10165",
                     "id": 1167576951,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-23T04:17:31Z",
+                    "open_issues": 75,
                     "owner": "Gen-Verse",
                     "repo": "OpenClaw-RL",
-                    "stars": 5658
+                    "stars": 5658,
+                    "topics": [
+                      "async",
+                      "coding",
+                      "grpo",
+                      "gui-application",
+                      "memory-systems",
+                      "on-policy-distillation",
+                      "open-claw",
+                      "openclaw-skills",
+                      "rlhf",
+                      "sglang",
+                      "skill-learning",
+                      "slime",
+                      "tinker"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -133,12 +250,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🦞 Just talk to your agent — it learns and EVOLVES 🧬.",
+                    "homepage": "https://arxiv.org/abs/2603.17187",
                     "id": 1176898834,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-07T04:57:05Z",
+                    "open_issues": 17,
                     "owner": "aiming-lab",
                     "repo": "MetaClaw",
-                    "stars": 3498
+                    "stars": 3498,
+                    "topics": [
+                      "agent",
+                      "ai-agent",
+                      "continual-learning",
+                      "fine-tuning",
+                      "llm",
+                      "lora",
+                      "meta-learning",
+                      "metaclaw",
+                      "online-learning",
+                      "openclaw",
+                      "reinforcement-learning",
+                      "skill-learning",
+                      "tinker"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -149,12 +285,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning",
+                    "homepage": null,
                     "id": 942373331,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T18:10:46Z",
+                    "open_issues": 43,
                     "owner": "AgentR1",
                     "repo": "Agent-R1",
-                    "stars": 1636
+                    "stars": 1636,
+                    "topics": [
+                      "agent",
+                      "agentic-rl",
+                      "llm"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 }
@@ -172,12 +317,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+                    "homepage": null,
                     "id": 1206566990,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-17T08:48:07Z",
+                    "open_issues": 34,
                     "owner": "AMAP-ML",
                     "repo": "SkillClaw",
-                    "stars": 2528
+                    "stars": 2529,
+                    "topics": [
+                      "agent",
+                      "agentic-ai",
+                      "ai-agent",
+                      "collective-intelligence",
+                      "continual-learning",
+                      "hermes",
+                      "llm",
+                      "llms",
+                      "openclaw",
+                      "self-evolving",
+                      "skill-evolution",
+                      "skill-learning",
+                      "skills"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -188,12 +352,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EvoMaster: A Foundational Evolving Agent Framework for Agentic Science at Scale.",
+                    "homepage": null,
                     "id": 1142570582,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-28T15:17:11Z",
+                    "open_issues": 3,
                     "owner": "sjtu-sai-agents",
                     "repo": "EvoMaster",
-                    "stars": 219
+                    "stars": 219,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 }
@@ -218,12 +387,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An end-to-end security evaluation framework tailored for real-world personalized agent.",
+                    "homepage": null,
                     "id": 1153394641,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-02-28T03:24:45Z",
+                    "open_issues": 3,
                     "owner": "AstorYH",
                     "repo": "PASB",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -234,12 +408,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1157904029,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-02-18T08:28:37Z",
+                    "open_issues": 0,
                     "owner": "tychenn",
                     "repo": "clawdbot_report",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -250,12 +429,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ClawGuard is a comprehensive security toolkit designed to mitigate risks associated with autonomous agents, such as OpenClaw and other LLM Agents.",
+                    "homepage": null,
                     "id": 1180012567,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-04-25T03:44:55Z",
+                    "open_issues": 1,
                     "owner": "NY1024",
                     "repo": "ClawGuard",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -266,12 +450,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AgentAegis is a lightweight plugin providing full-lifecycle runtime protection for OpenClaw.",
+                    "homepage": null,
                     "id": 1196771545,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-14T09:02:53Z",
+                    "open_issues": 5,
                     "owner": "antgroup",
                     "repo": "agent-aegis",
-                    "stars": 195
+                    "stars": 195,
+                    "topics": [
+                      "agent",
+                      "agent-security",
+                      "llm",
+                      "openclaw",
+                      "openclaw-plugin",
+                      "security",
+                      "skills"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -282,12 +479,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Claw-Eval is an evaluation harness for evaluating LLM as agents. All tasks verified by humans.",
+                    "homepage": "https://claw-eval.github.io",
                     "id": 1179034062,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T15:20:10Z",
+                    "open_issues": 8,
                     "owner": "claw-eval",
                     "repo": "claw-eval",
-                    "stars": 760
+                    "stars": 760,
+                    "topics": [
+                      "agent",
+                      "harness",
+                      "llm",
+                      "openclaw"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -298,12 +505,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1201693488,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-01T08:26:46Z",
+                    "open_issues": 4,
                     "owner": "aiming-lab",
                     "repo": "ClawArena",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -314,12 +526,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2026] Official repository for Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw",
+                    "homepage": "https://ucsc-vlaa.github.io/CIK-Bench/",
                     "id": 1203544735,
                     "language": "Shell",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-02T18:17:16Z",
+                    "open_issues": 0,
                     "owner": "UCSC-VLAA",
                     "repo": "CIK-Bench",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": [
+                      "agent",
+                      "openclaw",
+                      "personal-ai-assistant",
+                      "real-world",
+                      "safety"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 }
@@ -337,12 +560,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "First formal security scanner for AI agent skills & plugins. Static analysis, supply chain verification, SBOM generation. 22 frameworks supported including MCP, LangChain, CrewAI.",
+                    "homepage": "https://pypi.org/project/skillfortify/",
                     "id": 1167593455,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-05T11:06:22Z",
+                    "open_issues": 4,
                     "owner": "qualixar",
                     "repo": "skillfortify",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "agent-security",
+                      "ai-agents",
+                      "claude-skills",
+                      "formal-verification",
+                      "mcp-security",
+                      "qualixar",
+                      "static-analysis",
+                      "supply-chain-security"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -353,12 +590,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ClawGuard is a comprehensive security toolkit designed to mitigate risks associated with autonomous agents, such as OpenClaw and other LLM Agents.",
+                    "homepage": null,
                     "id": 1180012567,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-04-25T03:44:55Z",
+                    "open_issues": 1,
                     "owner": "NY1024",
                     "repo": "ClawGuard",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -369,12 +611,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1178434154,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-03-11T05:08:19Z",
+                    "open_issues": 0,
                     "owner": "S2yyyy",
                     "repo": "OpenClaw-Analysis",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 }
@@ -399,12 +646,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1147715671,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-02-02T05:51:41Z",
+                    "open_issues": 0,
                     "owner": "manikm-114",
                     "repo": "OpenClaw-Agents-on-Moltbook",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 }
@@ -422,12 +674,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://beach.science",
                     "id": 1155696151,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-05-30T04:39:46Z",
+                    "open_issues": 4,
                     "owner": "moleculeprotocol",
                     "repo": "science.beach",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 }
@@ -452,12 +709,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+                    "homepage": "https://nanoclaw.dev",
                     "id": 1146738089,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T19:53:48Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T00:32:27Z",
+                    "open_issues": 1068,
                     "owner": "nanocoai",
                     "repo": "nanoclaw",
-                    "stars": 30632
+                    "stars": 30634,
+                    "topics": [
+                      "ai-agents",
+                      "ai-assistant",
+                      "claude-code",
+                      "claude-skills",
+                      "openclaw"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -468,12 +736,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+                    "homepage": "https://picoclaw.io",
                     "id": 1149707767,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T21:13:30Z",
+                    "open_issues": 32,
                     "owner": "sipeed",
                     "repo": "picoclaw",
-                    "stars": 29913
+                    "stars": 29913,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -484,12 +757,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
+                    "homepage": "https://openclaw.ai",
                     "id": 1164832776,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-03T11:24:42Z",
+                    "open_issues": 25,
                     "owner": "cft0808",
                     "repo": "edict",
-                    "stars": 16715
+                    "stars": 16723,
+                    "topics": [
+                      "ai-agents",
+                      "ai-orchestration",
+                      "autonomous-agents",
+                      "claude",
+                      "dashboard",
+                      "kanban",
+                      "llm",
+                      "multi-agent",
+                      "openai",
+                      "openclaw",
+                      "orchestration",
+                      "python",
+                      "workflow-automation"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -500,12 +792,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "👾 下一代透明智能体架构 | Next-Gen Transparent Agent Architecture 🔍 全行为审计 | 🛡️ 两段式安全调用 | 🧠 双水位记忆 | ⏰ 心跳任务 📊 P0 级事故率降低 80% | 兼容 OpenClaw + Claude Code 技能生态",
+                    "homepage": null,
                     "id": 1203463294,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-20T08:47:52Z",
+                    "open_issues": 0,
                     "owner": "ttguy0707",
                     "repo": "CyberClaw",
-                    "stars": 327
+                    "stars": 327,
+                    "topics": [
+                      "agent",
+                      "agent-framework",
+                      "ai-agent",
+                      "ai-safety",
+                      "claude-code",
+                      "cross-platform",
+                      "enterprise-ai",
+                      "langchain",
+                      "langgraph",
+                      "llm",
+                      "openclaw",
+                      "python",
+                      "transparent-ai",
+                      "two-phase-invocation"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -516,12 +828,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Build, Evaluate, and Deploy GUI Agents — online RL training, standardized benchmarks, and real-device deployment in one framework.",
+                    "homepage": null,
                     "id": 1203564361,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-03T07:10:58Z",
+                    "open_issues": 7,
                     "owner": "ZJU-REAL",
                     "repo": "ClawGUI",
-                    "stars": 1338
+                    "stars": 1338,
+                    "topics": [
+                      "agentrl",
+                      "guiagents",
+                      "mobile-agent",
+                      "onlinerl",
+                      "openclaw",
+                      "rl-training"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 }
@@ -546,12 +870,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1179490556,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-04-10T15:04:16Z",
+                    "open_issues": 3,
                     "owner": "RoboClaw-Robotics",
                     "repo": "RoboClaw",
-                    "stars": 151
+                    "stars": 151,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -562,12 +891,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RoboClaw is an Embodied AI Assistant.",
+                    "homepage": null,
                     "id": 1178418547,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-17T15:37:05Z",
+                    "open_issues": 25,
                     "owner": "MINT-SJTU",
                     "repo": "RoboClaw",
-                    "stars": 541
+                    "stars": 541,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -578,12 +912,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ROS2 meets OpenClaw 💗",
+                    "homepage": null,
                     "id": 1158808327,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-03T23:36:48Z",
+                    "open_issues": 7,
                     "owner": "PlaiPin",
                     "repo": "rosclaw",
-                    "stars": 629
+                    "stars": 629,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -594,12 +933,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "[ARCHIVED] The Physical Embodiment for OpenClaw — Dual-Brain Bytecode Robot",
+                    "homepage": null,
                     "id": 1163620818,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-25T11:52:51Z",
+                    "open_issues": 0,
                     "owner": "EvolvingAgentsLabs",
                     "repo": "skillos_robot",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 }
@@ -617,12 +961,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://beach.science",
                     "id": 1155696151,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-05-30T04:39:46Z",
+                    "open_issues": 4,
                     "owner": "moleculeprotocol",
                     "repo": "science.beach",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -633,12 +982,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1146879550,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-21T17:09:07Z",
+                    "open_issues": 1,
                     "owner": "lamm-mit",
                     "repo": "scienceclaw",
-                    "stars": 242
+                    "stars": 242,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -649,12 +1003,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1184688582,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-03-17T21:12:15Z",
+                    "open_issues": 0,
                     "owner": "wu-yc",
                     "repo": "Claw4S_Stanford",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -665,12 +1024,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+                    "homepage": null,
                     "id": 1182108611,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T03:35:13Z",
+                    "open_issues": 8,
                     "owner": "aiming-lab",
                     "repo": "AutoResearchClaw",
-                    "stars": 14267
+                    "stars": 14270,
+                    "topics": [
+                      "autonomous-research",
+                      "citation-verification",
+                      "llm-agents",
+                      "metaclaw",
+                      "multi-agent-debate",
+                      "openclaw",
+                      "paper-generation",
+                      "scientific-discovery",
+                      "self-evolving"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -681,12 +1055,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CAJAL — Local scientific paper generator. Qwen 27B fine-tuned for academic writing. AI Tribunal peer review. 6x4 CognitionBoard. 2.7x token compression. Runs offline on RTX 3090. Apache 2.0.",
+                    "homepage": null,
                     "id": 1227155975,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-06-02T07:20:07Z",
+                    "open_issues": 0,
                     "owner": "Agnuxo1",
                     "repo": "CAJAL",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 }
@@ -704,12 +1083,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
+                    "homepage": null,
                     "id": 1175870738,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-21T01:01:51Z",
+                    "open_issues": 14,
                     "owner": "FreedomIntelligence",
                     "repo": "OpenClaw-Medical-Skills",
-                    "stars": 2975
+                    "stars": 2975,
+                    "topics": [
+                      "awesome",
+                      "claude-code",
+                      "clawhub",
+                      "medical",
+                      "nanoclaw",
+                      "openclaw",
+                      "openclaw-skills",
+                      "skills"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 }
@@ -727,12 +1120,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Migrate to dench.com if you're reading this. Fully Managed OpenClaw Framework for all knowledge work ever. CRM Automation and Outreach agents. The only local productivity tool you need.",
+                    "homepage": "https://denchclaw.com",
                     "id": 1147073855,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-06-11T07:46:53Z",
+                    "open_issues": 96,
                     "owner": "DenchHQ",
                     "repo": "DenchClaw",
-                    "stars": 1647
+                    "stars": 1647,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -743,12 +1141,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://educlaw-innospark.github.io/AgentProfile/",
                     "id": 1177426045,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-03-13T02:23:29Z",
+                    "open_issues": 0,
                     "owner": "EduClaw-InnoSpark",
                     "repo": "AgentProfile",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 },
@@ -759,12 +1162,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MathClaw is a multimodal learning assistant designed for middle and high school mathematics.",
+                    "homepage": "https://mathclaw-ruc.github.io/MathClaw.github.io/",
                     "id": 1186091069,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-04-07T06:33:19Z",
+                    "open_issues": 1,
                     "owner": "MathClaw-ruc",
                     "repo": "MathClaw",
-                    "stars": 372
+                    "stars": 372,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
                 }
@@ -791,12 +1199,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+            "homepage": "https://openclaw.ai",
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T21:15:02Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:53:20Z",
+            "open_issues": 5732,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387929
+            "stars": 387951,
+            "topics": [
+              "ai",
+              "assistant",
+              "crustacean",
+              "molty",
+              "openclaw",
+              "own-your-data",
+              "personal"
+            ]
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         }
@@ -813,12 +1234,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native MCP (Model Context Protocol) support for OpenClaw — community contribution targeting #4834 and #13248",
+            "homepage": null,
             "id": 1161889247,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-19T21:59:00Z",
+            "open_issues": 0,
             "owner": "amor71",
             "repo": "openclaw-mcp",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         },
@@ -829,12 +1255,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated paper discovery skill — daily HF Papers digest + one-click deep reading via SwiftScholar, powered by OpenClaw.",
+            "homepage": null,
             "id": 1164467966,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-23T06:01:12Z",
+            "open_issues": 0,
             "owner": "henry-y",
             "repo": "openclaw-paper-tools",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         }
@@ -851,12 +1282,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+            "homepage": null,
             "id": 1182108611,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T03:35:13Z",
+            "open_issues": 8,
             "owner": "aiming-lab",
             "repo": "AutoResearchClaw",
-            "stars": 14267
+            "stars": 14270,
+            "topics": [
+              "autonomous-research",
+              "citation-verification",
+              "llm-agents",
+              "metaclaw",
+              "multi-agent-debate",
+              "openclaw",
+              "paper-generation",
+              "scientific-discovery",
+              "self-evolving"
+            ]
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         },
@@ -867,12 +1313,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
+            "homepage": null,
             "id": 1175870738,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-21T01:01:51Z",
+            "open_issues": 14,
             "owner": "FreedomIntelligence",
             "repo": "OpenClaw-Medical-Skills",
-            "stars": 2975
+            "stars": 2975,
+            "topics": [
+              "awesome",
+              "claude-code",
+              "clawhub",
+              "medical",
+              "nanoclaw",
+              "openclaw",
+              "openclaw-skills",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         },
@@ -883,12 +1343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your AI Research Lab That Never Sleeps. 9 agents, 263 skills, 77 databases — from literature to publication, every discipline, zero boundaries.",
+            "homepage": null,
             "id": 1173274158,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-03-18T07:40:17Z",
+            "open_issues": 1,
             "owner": "Zaoqu-Liu",
             "repo": "ScienceClaw",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         },
@@ -899,12 +1364,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI campaign orchestrator for drug discovery that plans with OpenClaw and executes Refua MCP tools, including autonomous loops and portfolio ranking.",
+            "homepage": "https://agentcures.com/",
             "id": 1159441354,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-26T08:51:25Z",
+            "open_issues": 0,
             "owner": "agentcures",
             "repo": "ClawCures",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "admet",
+              "ai-agents",
+              "campaign-orchestration",
+              "drug-discovery",
+              "mcp",
+              "openclaw",
+              "portfolio-ranking",
+              "refua"
+            ]
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         }
@@ -921,12 +1400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An end-to-end security evaluation framework tailored for real-world personalized agent.",
+            "homepage": null,
             "id": 1153394641,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-28T03:24:45Z",
+            "open_issues": 3,
             "owner": "AstorYH",
             "repo": "PASB",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         },
@@ -937,12 +1421,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "First formal security scanner for AI agent skills & plugins. Static analysis, supply chain verification, SBOM generation. 22 frameworks supported including MCP, LangChain, CrewAI.",
+            "homepage": "https://pypi.org/project/skillfortify/",
             "id": 1167593455,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-05T11:06:22Z",
+            "open_issues": 4,
             "owner": "qualixar",
             "repo": "skillfortify",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "agent-security",
+              "ai-agents",
+              "claude-skills",
+              "formal-verification",
+              "mcp-security",
+              "qualixar",
+              "static-analysis",
+              "supply-chain-security"
+            ]
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         },
@@ -953,12 +1451,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SecureClaw - Security Plugin and Skill for OpenClaw OWASP-Aligned",
+            "homepage": "https://adversa.ai/",
             "id": 1154405739,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-04-12T16:40:46Z",
+            "open_issues": 6,
             "owner": "adversa-ai",
             "repo": "secureclaw",
-            "stars": 349
+            "stars": 349,
+            "topics": [
+              "agentic-ai",
+              "ai-agents",
+              "ai-security",
+              "llm-security",
+              "openclaw",
+              "openclaw-plugin",
+              "openclaw-security",
+              "openclaw-skills",
+              "owasp",
+              "owasp-llm-top-10"
+            ]
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         },
@@ -969,12 +1483,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
+            "homepage": null,
             "id": 1170475068,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-04-06T05:58:43Z",
+            "open_issues": 7,
             "owner": "slowmist",
             "repo": "openclaw-security-practice-guide",
-            "stars": 2856
+            "stars": 2856,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         }
@@ -991,12 +1510,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
+            "homepage": "https://pinchbench.com",
             "id": 1154980232,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-02T01:44:55Z",
+            "open_issues": 24,
             "owner": "pinchbench",
             "repo": "skill",
-            "stars": 1328
+            "stars": 1328,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         }
@@ -1013,12 +1537,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信，微信",
+            "homepage": null,
             "id": 1143968677,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-12T01:58:37Z",
+            "open_issues": 30,
             "owner": "BytePioneer-AI",
             "repo": "openclaw-china",
-            "stars": 3965
+            "stars": 3965,
+            "topics": [
+              "openclaw",
+              "openclaw-china",
+              "openclaw-dingding",
+              "openclaw-feishu",
+              "openclaw-qq",
+              "openclaw-weixin"
+            ]
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         }
@@ -1035,12 +1571,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open-source self-hosted AI agent for WhatsApp, Telegram, Discord & 50+ integrations.",
+            "homepage": "https://openclaw.ai",
             "id": 784773119,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-25T07:14:23Z",
+            "open_issues": 6,
             "owner": "Anil-matcha",
             "repo": "awesome-openclaw",
-            "stars": 997
+            "stars": 997,
+            "topics": [
+              "agentic-ai",
+              "ai-agent",
+              "ai-automation",
+              "autonomous-agents",
+              "awesome",
+              "awesome-list",
+              "chatbot",
+              "clawdbot",
+              "llm-agent",
+              "local-llm",
+              "mcp",
+              "model-context-protocol",
+              "moltbot",
+              "nodejs",
+              "open-source-ai",
+              "openclaw",
+              "personal-assistant",
+              "self-hosted",
+              "telegram-bot",
+              "whatsapp-bot"
+            ]
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         },
@@ -1051,12 +1613,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!",
+            "homepage": "https://crewclaw.com",
             "id": 1150496175,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-05-25T10:21:05Z",
+            "open_issues": 88,
             "owner": "mergisi",
             "repo": "awesome-openclaw-agents",
-            "stars": 3944
+            "stars": 3944,
+            "topics": [
+              "ai-agent-templates",
+              "ai-agents",
+              "ai-automation",
+              "anthropic",
+              "automation",
+              "awesome",
+              "awesome-list",
+              "claude",
+              "community-agents",
+              "crewclaw",
+              "docker",
+              "llm",
+              "mcp",
+              "multi-agent",
+              "no-code",
+              "openclaw",
+              "productivity",
+              "soul-md",
+              "submit-your-agent",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         },
@@ -1067,12 +1655,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
+            "homepage": "https://clawskills.sh/",
             "id": 1141704318,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-23T08:45:20Z",
+            "open_issues": 1,
             "owner": "VoltAgent",
             "repo": "awesome-openclaw-skills",
-            "stars": 52222
+            "stars": 52225,
+            "topics": [
+              "agent-skills",
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "clawd",
+              "clawdbot",
+              "clawdbot-skill",
+              "clawdhub",
+              "moltbot",
+              "moltbot-skills",
+              "openclaw",
+              "openclaw-skills"
+            ]
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         },
@@ -1083,12 +1689,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenClaw plugin for Discourse forum integration — read, search, filter, and write topics/posts via agent tools",
+            "homepage": null,
             "id": 1167957162,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-02T13:49:00Z",
+            "open_issues": 1,
             "owner": "pranciskus",
             "repo": "discourse-openclaw",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "ai-agents",
+              "discourse",
+              "discourse-api",
+              "openclaw",
+              "openclaw-plugin"
+            ]
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         },
@@ -1099,12 +1716,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One command to uninstall ALL Claw-family AI agents. Zero residue. 一键卸载所有 Claw 家族 AI Agent，无残留。",
+            "homepage": null,
             "id": 1178511945,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-03-15T17:02:50Z",
+            "open_issues": 1,
             "owner": "wanikua",
             "repo": "byebyeclaw",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "ai-agent",
+              "claw",
+              "cleanup",
+              "ironclaw",
+              "microclaw",
+              "moltbot",
+              "nanobot",
+              "nanoclaw",
+              "nullclaw",
+              "openclaw",
+              "tinyclaw",
+              "uninstaller",
+              "zeroclaw"
+            ]
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
         }
@@ -1113,15 +1749,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:15:03.075Z",
+    "last_updated": "2026-08-29T04:53:28.479Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🦞 Research-oriented collection of papers, analyses & resources on the OpenClaw ecosystem",
+      "homepage": null,
       "id": 1191252067,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-07-05T03:02:02Z",
+      "open_issues": 1,
       "owner": "shuolucs",
       "repo": "Awesome-OpenClaw-Research",
-      "stars": 340
+      "stars": 340,
+      "topics": [
+        "awesome-list",
+        "openclaw",
+        "openclaw-agent",
+        "openclaw-research",
+        "openclaw-security"
+      ]
     },
     "original_repository_sha": "7fff6df962cb65ad1ae1c46be3802625d1b07880",
     "enhanced_repository": "enhansome/enhansome-Awesome-OpenClaw-Research",
