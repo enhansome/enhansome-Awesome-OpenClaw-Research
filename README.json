@@ -20,10 +20,10 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-09T12:54:27Z",
-                    "open_issues": 66,
+                    "open_issues": 71,
                     "owner": "MemTensor",
                     "repo": "MemOS",
-                    "stars": 11244,
+                    "stars": 11269,
                     "topics": [
                       "agent",
                       "agentic-ai",
@@ -60,11 +60,11 @@
                     "id": 1128123594,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-09T12:46:23Z",
-                    "open_issues": 698,
+                    "last_commit": "2026-09-10T13:59:40Z",
+                    "open_issues": 682,
                     "owner": "volcengine",
                     "repo": "OpenViking",
-                    "stars": 36242,
+                    "stars": 36461,
                     "topics": [
                       "agent-memory",
                       "agent-plugins",
@@ -88,11 +88,11 @@
                     "id": 1024554267,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T14:04:34Z",
-                    "open_issues": 41266,
+                    "last_commit": "2026-09-10T14:37:46Z",
+                    "open_issues": 41522,
                     "owner": "NousResearch",
                     "repo": "hermes-agent",
-                    "stars": 243713,
+                    "stars": 244108,
                     "topics": [
                       "ai",
                       "ai-agent",
@@ -127,7 +127,7 @@
                     "open_issues": 10,
                     "owner": "aiming-lab",
                     "repo": "AutoResearchClaw",
-                    "stars": 14377,
+                    "stars": 14389,
                     "topics": [
                       "autonomous-research",
                       "citation-verification",
@@ -223,7 +223,7 @@
                     "open_issues": 75,
                     "owner": "Gen-Verse",
                     "repo": "OpenClaw-RL",
-                    "stars": 5671,
+                    "stars": 5672,
                     "topics": [
                       "async",
                       "coding",
@@ -258,7 +258,7 @@
                     "open_issues": 17,
                     "owner": "aiming-lab",
                     "repo": "MetaClaw",
-                    "stars": 3495,
+                    "stars": 3496,
                     "topics": [
                       "agent",
                       "ai-agent",
@@ -293,7 +293,7 @@
                     "open_issues": 44,
                     "owner": "AgentR1",
                     "repo": "Agent-R1",
-                    "stars": 1657,
+                    "stars": 1659,
                     "topics": [
                       "agent",
                       "agentic-rl",
@@ -325,7 +325,7 @@
                     "open_issues": 39,
                     "owner": "AMAP-ML",
                     "repo": "SkillClaw",
-                    "stars": 2584,
+                    "stars": 2588,
                     "topics": [
                       "agent",
                       "agentic-ai",
@@ -483,11 +483,11 @@
                     "id": 1179034062,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T08:07:22Z",
+                    "last_commit": "2026-09-10T08:06:24Z",
                     "open_issues": 8,
                     "owner": "claw-eval",
                     "repo": "claw-eval",
-                    "stars": 770,
+                    "stars": 771,
                     "topics": [
                       "agent",
                       "harness",
@@ -713,11 +713,11 @@
                     "id": 1146738089,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T12:01:49Z",
-                    "open_issues": 1102,
+                    "last_commit": "2026-09-10T14:24:18Z",
+                    "open_issues": 1104,
                     "owner": "nanocoai",
                     "repo": "nanoclaw",
-                    "stars": 30728,
+                    "stars": 30737,
                     "topics": [
                       "ai-agents",
                       "ai-assistant",
@@ -741,10 +741,10 @@
                     "language": "Go",
                     "license": "MIT",
                     "last_commit": "2026-09-03T17:15:19Z",
-                    "open_issues": 53,
+                    "open_issues": 51,
                     "owner": "sipeed",
                     "repo": "picoclaw",
-                    "stars": 29949,
+                    "stars": 29956,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
@@ -765,7 +765,7 @@
                     "open_issues": 18,
                     "owner": "cft0808",
                     "repo": "edict",
-                    "stars": 16856,
+                    "stars": 16865,
                     "topics": [
                       "ai-agents",
                       "ai-orchestration",
@@ -1032,7 +1032,7 @@
                     "open_issues": 10,
                     "owner": "aiming-lab",
                     "repo": "AutoResearchClaw",
-                    "stars": 14377,
+                    "stars": 14389,
                     "topics": [
                       "autonomous-research",
                       "citation-verification",
@@ -1091,7 +1091,7 @@
                     "open_issues": 14,
                     "owner": "FreedomIntelligence",
                     "repo": "OpenClaw-Medical-Skills",
-                    "stars": 2996,
+                    "stars": 3000,
                     "topics": [
                       "awesome",
                       "claude-code",
@@ -1203,11 +1203,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T14:47:25Z",
-            "open_issues": 6506,
+            "last_commit": "2026-09-10T14:35:40Z",
+            "open_issues": 6602,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 389282,
+            "stars": 389349,
             "topics": [
               "ai",
               "assistant",
@@ -1290,7 +1290,7 @@
             "open_issues": 10,
             "owner": "aiming-lab",
             "repo": "AutoResearchClaw",
-            "stars": 14377,
+            "stars": 14389,
             "topics": [
               "autonomous-research",
               "citation-verification",
@@ -1321,7 +1321,7 @@
             "open_issues": 14,
             "owner": "FreedomIntelligence",
             "repo": "OpenClaw-Medical-Skills",
-            "stars": 2996,
+            "stars": 3000,
             "topics": [
               "awesome",
               "claude-code",
@@ -1491,7 +1491,7 @@
             "open_issues": 7,
             "owner": "slowmist",
             "repo": "openclaw-security-practice-guide",
-            "stars": 2855,
+            "stars": 2856,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:03.075Z"
@@ -1576,10 +1576,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-02T15:30:01Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "awesome-agent-apis",
-            "stars": 1005,
+            "stars": 1007,
             "topics": [
               "agent-apis",
               "agent-tools",
@@ -1621,7 +1621,7 @@
             "open_issues": 90,
             "owner": "mergisi",
             "repo": "awesome-openclaw-agents",
-            "stars": 3953,
+            "stars": 3954,
             "topics": [
               "ai-agent-templates",
               "ai-agents",
@@ -1663,7 +1663,7 @@
             "open_issues": 5,
             "owner": "VoltAgent",
             "repo": "awesome-openclaw-skills",
-            "stars": 52463,
+            "stars": 52480,
             "topics": [
               "agent-skills",
               "awesome",
@@ -1748,7 +1748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T14:47:46.514Z",
+    "last_updated": "2026-09-10T14:38:14.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦞 Research-oriented collection of papers, analyses & resources on the OpenClaw ecosystem",
