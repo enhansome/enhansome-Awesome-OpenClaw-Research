@@ -23,7 +23,7 @@
                     "open_issues": 117,
                     "owner": "MemTensor",
                     "repo": "MemOS",
-                    "stars": 11671,
+                    "stars": 11679,
                     "topics": [
                       "agent",
                       "agentic-ai",
@@ -60,11 +60,11 @@
                     "id": 1128123594,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-02T15:57:10Z",
-                    "open_issues": 731,
+                    "last_commit": "2026-10-03T04:22:44Z",
+                    "open_issues": 727,
                     "owner": "volcengine",
                     "repo": "OpenViking",
-                    "stars": 39122,
+                    "stars": 39142,
                     "topics": [
                       "agent-memory",
                       "agent-plugins",
@@ -88,11 +88,11 @@
                     "id": 1024554267,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T16:12:32Z",
-                    "open_issues": 48400,
+                    "last_commit": "2026-10-03T04:24:02Z",
+                    "open_issues": 47883,
                     "owner": "NousResearch",
                     "repo": "hermes-agent",
-                    "stars": 250707,
+                    "stars": 250804,
                     "topics": [
                       "ai",
                       "ai-agent",
@@ -127,7 +127,7 @@
                     "open_issues": 14,
                     "owner": "aiming-lab",
                     "repo": "AutoResearchClaw",
-                    "stars": 14561,
+                    "stars": 14563,
                     "topics": [
                       "autonomous-research",
                       "citation-verification",
@@ -158,7 +158,7 @@
                     "open_issues": 10,
                     "owner": "beita6969",
                     "repo": "ScienceClaw",
-                    "stars": 907,
+                    "stars": 906,
                     "topics": [
                       "ai",
                       "ai-agent",
@@ -293,7 +293,7 @@
                     "open_issues": 47,
                     "owner": "AgentR1",
                     "repo": "Agent-R1",
-                    "stars": 1679,
+                    "stars": 1680,
                     "topics": [
                       "agent",
                       "agentic-rl",
@@ -325,7 +325,7 @@
                     "open_issues": 40,
                     "owner": "AMAP-ML",
                     "repo": "SkillClaw",
-                    "stars": 2656,
+                    "stars": 2658,
                     "topics": [
                       "agent",
                       "agentic-ai",
@@ -713,11 +713,11 @@
                     "id": 1146738089,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T15:29:28Z",
-                    "open_issues": 1031,
+                    "last_commit": "2026-10-02T22:14:22Z",
+                    "open_issues": 1032,
                     "owner": "nanocoai",
                     "repo": "nanoclaw",
-                    "stars": 30862,
+                    "stars": 30861,
                     "topics": [
                       "ai-agents",
                       "ai-assistant",
@@ -741,10 +741,10 @@
                     "language": "Go",
                     "license": "MIT",
                     "last_commit": "2026-09-24T17:14:08Z",
-                    "open_issues": 60,
+                    "open_issues": 59,
                     "owner": "sipeed",
                     "repo": "picoclaw",
-                    "stars": 30018,
+                    "stars": 30017,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:15:03.075Z"
@@ -762,10 +762,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-28T02:33:22Z",
-                    "open_issues": 13,
+                    "open_issues": 14,
                     "owner": "cft0808",
                     "repo": "edict",
-                    "stars": 16958,
+                    "stars": 16959,
                     "topics": [
                       "ai-agents",
                       "ai-orchestration",
@@ -1032,7 +1032,7 @@
                     "open_issues": 14,
                     "owner": "aiming-lab",
                     "repo": "AutoResearchClaw",
-                    "stars": 14561,
+                    "stars": 14563,
                     "topics": [
                       "autonomous-research",
                       "citation-verification",
@@ -1192,563 +1192,576 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "OpenClaw Core",
-          "description": "github.com/openclaw/openclaw",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-            "homepage": "https://openclaw.ai",
-            "id": 1103012935,
-            "language": "TypeScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T16:21:24Z",
-            "open_issues": 9172,
-            "owner": "openclaw",
-            "repo": "openclaw",
-            "stars": 391182,
-            "topics": [
-              "ai",
-              "assistant",
-              "crustacean",
-              "molty",
-              "openclaw",
-              "own-your-data",
-              "personal"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenClaw Core",
+              "description": "openclaw/openclaw",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+                "homepage": "https://openclaw.ai",
+                "id": 1103012935,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-03T04:24:27Z",
+                "open_issues": 9170,
+                "owner": "openclaw",
+                "repo": "openclaw",
+                "stars": 391195,
+                "topics": [
+                  "ai",
+                  "assistant",
+                  "crustacean",
+                  "molty",
+                  "openclaw",
+                  "own-your-data",
+                  "personal"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Links"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "amor71/openclaw-mcp",
+              "description": "TypeScript Native MCP client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Native MCP (Model Context Protocol) support for OpenClaw — community contribution targeting #4834 and #13248",
+                "homepage": null,
+                "id": 1161889247,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-02-19T21:59:00Z",
+                "open_issues": 0,
+                "owner": "amor71",
+                "repo": "openclaw-mcp",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            },
+            {
+              "node_type": "item",
+              "title": "henry-y/openclaw-paper-tools",
+              "description": "Python OpenClaw arXiv paper reader",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Automated paper discovery skill — daily HF Papers digest + one-click deep reading via SwiftScholar, powered by OpenClaw.",
+                "homepage": null,
+                "id": 1164467966,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-02-23T06:01:12Z",
+                "open_issues": 0,
+                "owner": "henry-y",
+                "repo": "openclaw-paper-tools",
+                "stars": 91,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SDKs & Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AutoResearchClaw",
+              "description": "GitHub Fully autonomous 23-stage research pipeline: idea → experiment → conference-ready paper; multi-agent peer review",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+                "homepage": null,
+                "id": 1182108611,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-19T03:35:13Z",
+                "open_issues": 14,
+                "owner": "aiming-lab",
+                "repo": "AutoResearchClaw",
+                "stars": 14563,
+                "topics": [
+                  "autonomous-research",
+                  "citation-verification",
+                  "llm-agents",
+                  "metaclaw",
+                  "multi-agent-debate",
+                  "openclaw",
+                  "paper-generation",
+                  "scientific-discovery",
+                  "self-evolving"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OpenClaw-Medical-Skills",
+              "description": "GitHub 869 curated medical AI skills covering clinical work, genomics, drug discovery & bioinformatics",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
+                "homepage": null,
+                "id": 1175870738,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-21T01:01:51Z",
+                "open_issues": 14,
+                "owner": "FreedomIntelligence",
+                "repo": "OpenClaw-Medical-Skills",
+                "stars": 3042,
+                "topics": [
+                  "awesome",
+                  "claude-code",
+                  "clawhub",
+                  "medical",
+                  "nanoclaw",
+                  "openclaw",
+                  "openclaw-skills",
+                  "skills"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ScienceClaw",
+              "description": "GitHub Autonomous research pipeline; 266+ domain skills; 77+ databases",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Your AI Research Lab That Never Sleeps. 9 agents, 263 skills, 77 databases — from literature to publication, every discipline, zero boundaries.",
+                "homepage": null,
+                "id": 1173274158,
+                "language": "Shell",
+                "license": "MIT",
+                "last_commit": "2026-03-18T07:40:17Z",
+                "open_issues": 2,
+                "owner": "Zaoqu-Liu",
+                "repo": "ScienceClaw",
+                "stars": 60,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ClawCures",
+              "description": "GitHub AI campaign orchestrator for drug discovery; planner/critic loops; ADMET maps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AI campaign orchestrator for drug discovery that plans with OpenClaw and executes Refua MCP tools, including autonomous loops and portfolio ranking.",
+                "homepage": "https://agentcures.com/",
+                "id": 1159441354,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-22T15:19:00Z",
+                "open_issues": 0,
+                "owner": "agentcures",
+                "repo": "ClawCures",
+                "stars": 4,
+                "topics": [
+                  "admet",
+                  "ai-agents",
+                  "campaign-orchestration",
+                  "drug-discovery",
+                  "mcp",
+                  "openclaw",
+                  "portfolio-ranking",
+                  "refua"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Automated Research Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PASB Framework",
+              "description": "AstorYH/PASB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An end-to-end security evaluation framework tailored for real-world personalized agent.",
+                "homepage": null,
+                "id": 1153394641,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-02-28T03:24:45Z",
+                "open_issues": 3,
+                "owner": "AstorYH",
+                "repo": "PASB",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SkillFortify",
+              "description": "GitHub · PyPI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "First formal security scanner for AI agent skills & plugins. Static analysis, supply chain verification, SBOM generation. 22 frameworks supported including MCP, LangChain, CrewAI.",
+                "homepage": "https://pypi.org/project/skillfortify/",
+                "id": 1167593455,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-02T11:46:04Z",
+                "open_issues": 5,
+                "owner": "qualixar",
+                "repo": "skillfortify",
+                "stars": 34,
+                "topics": [
+                  "agent-security",
+                  "ai-agents",
+                  "claude-skills",
+                  "formal-verification",
+                  "mcp-security",
+                  "qualixar",
+                  "static-analysis",
+                  "supply-chain-security"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SecureClaw",
+              "description": "adversa-ai/secureclaw",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SecureClaw - Security Plugin and Skill for OpenClaw OWASP-Aligned",
+                "homepage": "https://adversa.ai/",
+                "id": 1154405739,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2026-04-12T16:40:46Z",
+                "open_issues": 7,
+                "owner": "adversa-ai",
+                "repo": "secureclaw",
+                "stars": 348,
+                "topics": [
+                  "agentic-ai",
+                  "ai-agents",
+                  "ai-security",
+                  "llm-security",
+                  "openclaw",
+                  "openclaw-plugin",
+                  "openclaw-security",
+                  "openclaw-skills",
+                  "owasp",
+                  "owasp-llm-top-10"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SlowMist Security Guide",
+              "description": "slowmist/openclaw-security-practice-guide",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
+                "homepage": null,
+                "id": 1170475068,
+                "language": "Shell",
+                "license": "MIT",
+                "last_commit": "2026-04-06T05:58:43Z",
+                "open_issues": 7,
+                "owner": "slowmist",
+                "repo": "openclaw-security-practice-guide",
+                "stars": 2853,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security References"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PinchBench",
+              "description": "pinchbench.com · GitHub 23 real-world tasks across 8 categories; automated + LLM judge grading",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
+                "homepage": "https://pinchbench.com",
+                "id": 1154980232,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-02T01:44:55Z",
+                "open_issues": 26,
+                "owner": "pinchbench",
+                "repo": "skill",
+                "stars": 1356,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Benchmarks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenClaw China",
+              "description": "BytePioneer-AI/openclaw-china Domestic IM adaption (3,200+ Stars)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信，微信",
+                "homepage": null,
+                "id": 1143968677,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2026-06-12T01:58:37Z",
+                "open_issues": 31,
+                "owner": "BytePioneer-AI",
+                "repo": "openclaw-china",
+                "stars": 3964,
+                "topics": [
+                  "openclaw",
+                  "openclaw-china",
+                  "openclaw-dingding",
+                  "openclaw-feishu",
+                  "openclaw-qq",
+                  "openclaw-weixin"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chinese Community & Tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SamurAIGPT/awesome-openclaw",
+              "description": "823 Comprehensive list of OpenClaw resources, tools, skills, tutorials & articles",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A source-backed catalog of Meta Muse integrations and community connector skills, with capability, authentication, and permission notes.",
+                "homepage": "https://ai.meta.com/muse/",
+                "id": 784773119,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-29T17:16:20Z",
+                "open_issues": 5,
+                "owner": "Anil-matcha",
+                "repo": "awesome-muse-connectors",
+                "stars": 1254,
+                "topics": [
+                  "agent-skills",
+                  "agentic-ai",
+                  "ai-agents",
+                  "ai-tools",
+                  "api",
+                  "api-integration",
+                  "automation",
+                  "awesome",
+                  "awesome-list",
+                  "connector-catalog",
+                  "connectors",
+                  "developer-tools",
+                  "integrations",
+                  "llm",
+                  "meta-ai",
+                  "muse",
+                  "muse-connectors",
+                  "open-source",
+                  "personal-ai",
+                  "skills"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            },
+            {
+              "node_type": "item",
+              "title": "mergisi/awesome-openclaw-agents",
+              "description": "830+ 177 production-ready AI agent templates across 24 categories",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!",
+                "homepage": "https://crewclaw.com",
+                "id": 1150496175,
+                "language": "HTML",
+                "license": "MIT",
+                "last_commit": "2026-09-26T14:48:03Z",
+                "open_issues": 87,
+                "owner": "mergisi",
+                "repo": "awesome-openclaw-agents",
+                "stars": 3993,
+                "topics": [
+                  "ai-agent-templates",
+                  "ai-agents",
+                  "ai-automation",
+                  "anthropic",
+                  "automation",
+                  "awesome",
+                  "awesome-list",
+                  "claude",
+                  "community-agents",
+                  "crewclaw",
+                  "docker",
+                  "llm",
+                  "mcp",
+                  "multi-agent",
+                  "no-code",
+                  "openclaw",
+                  "productivity",
+                  "soul-md",
+                  "submit-your-agent",
+                  "telegram-bot"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VoltAgent/awesome-openclaw-skills",
+              "description": "— Community curated skills collection",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
+                "homepage": "https://clawskills.sh/",
+                "id": 1141704318,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-10-02T17:28:46Z",
+                "open_issues": 3,
+                "owner": "VoltAgent",
+                "repo": "awesome-openclaw-skills",
+                "stars": 52916,
+                "topics": [
+                  "agent-skills",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "clawd",
+                  "clawdbot",
+                  "clawdbot-skill",
+                  "clawdhub",
+                  "moltbot",
+                  "moltbot-skills",
+                  "openclaw",
+                  "openclaw-skills"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            },
+            {
+              "node_type": "item",
+              "title": "pranciskus/discourse-openclaw",
+              "description": "NEW Discourse forum integration with 12 tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OpenClaw plugin for Discourse forum integration — read, search, filter, and write topics/posts via agent tools",
+                "homepage": null,
+                "id": 1167957162,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-03-02T13:49:00Z",
+                "open_issues": 1,
+                "owner": "pranciskus",
+                "repo": "discourse-openclaw",
+                "stars": 11,
+                "topics": [
+                  "ai-agents",
+                  "discourse",
+                  "discourse-api",
+                  "openclaw",
+                  "openclaw-plugin"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            },
+            {
+              "node_type": "item",
+              "title": "wanikua/ByeByeClaw",
+              "description": "NEW One-command uninstaller for all Claw-family agents",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "One command to uninstall ALL Claw-family AI agents. Zero residue. 一键卸载所有 Claw 家族 AI Agent，无残留。",
+                "homepage": null,
+                "id": 1178511945,
+                "language": "Shell",
+                "license": "MIT",
+                "last_commit": "2026-03-15T17:02:50Z",
+                "open_issues": 1,
+                "owner": "wanikua",
+                "repo": "byebyeclaw",
+                "stars": 75,
+                "topics": [
+                  "ai-agent",
+                  "claw",
+                  "cleanup",
+                  "ironclaw",
+                  "microclaw",
+                  "moltbot",
+                  "nanobot",
+                  "nanoclaw",
+                  "nullclaw",
+                  "openclaw",
+                  "tinyclaw",
+                  "uninstaller",
+                  "zeroclaw"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:03.075Z"
+            }
+          ],
+          "description": "Know a great OpenClaw project we missed? Open a PR and help us keep this list growing!",
+          "node_type": "group",
+          "title": "Related Repositories"
         }
       ],
-      "title": "Official Links"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "amor71/openclaw-mcp",
-          "description": "TypeScript Native MCP client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Native MCP (Model Context Protocol) support for OpenClaw — community contribution targeting #4834 and #13248",
-            "homepage": null,
-            "id": 1161889247,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-02-19T21:59:00Z",
-            "open_issues": 0,
-            "owner": "amor71",
-            "repo": "openclaw-mcp",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        },
-        {
-          "node_type": "item",
-          "title": "henry-y/openclaw-paper-tools",
-          "description": "Python OpenClaw arXiv paper reader",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Automated paper discovery skill — daily HF Papers digest + one-click deep reading via SwiftScholar, powered by OpenClaw.",
-            "homepage": null,
-            "id": 1164467966,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-02-23T06:01:12Z",
-            "open_issues": 0,
-            "owner": "henry-y",
-            "repo": "openclaw-paper-tools",
-            "stars": 91,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        }
-      ],
-      "title": "SDKs & Tools"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AutoResearchClaw",
-          "description": "GitHub Fully autonomous 23-stage research pipeline: idea → experiment → conference-ready paper; multi-agent peer review",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-            "homepage": null,
-            "id": 1182108611,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-08-19T03:35:13Z",
-            "open_issues": 14,
-            "owner": "aiming-lab",
-            "repo": "AutoResearchClaw",
-            "stars": 14561,
-            "topics": [
-              "autonomous-research",
-              "citation-verification",
-              "llm-agents",
-              "metaclaw",
-              "multi-agent-debate",
-              "openclaw",
-              "paper-generation",
-              "scientific-discovery",
-              "self-evolving"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OpenClaw-Medical-Skills",
-          "description": "GitHub 869 curated medical AI skills covering clinical work, genomics, drug discovery & bioinformatics",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-            "homepage": null,
-            "id": 1175870738,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-07-21T01:01:51Z",
-            "open_issues": 14,
-            "owner": "FreedomIntelligence",
-            "repo": "OpenClaw-Medical-Skills",
-            "stars": 3042,
-            "topics": [
-              "awesome",
-              "claude-code",
-              "clawhub",
-              "medical",
-              "nanoclaw",
-              "openclaw",
-              "openclaw-skills",
-              "skills"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ScienceClaw",
-          "description": "GitHub Autonomous research pipeline; 266+ domain skills; 77+ databases",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Your AI Research Lab That Never Sleeps. 9 agents, 263 skills, 77 databases — from literature to publication, every discipline, zero boundaries.",
-            "homepage": null,
-            "id": 1173274158,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-03-18T07:40:17Z",
-            "open_issues": 2,
-            "owner": "Zaoqu-Liu",
-            "repo": "ScienceClaw",
-            "stars": 60,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ClawCures",
-          "description": "GitHub AI campaign orchestrator for drug discovery; planner/critic loops; ADMET maps",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "AI campaign orchestrator for drug discovery that plans with OpenClaw and executes Refua MCP tools, including autonomous loops and portfolio ranking.",
-            "homepage": "https://agentcures.com/",
-            "id": 1159441354,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-22T15:19:00Z",
-            "open_issues": 0,
-            "owner": "agentcures",
-            "repo": "ClawCures",
-            "stars": 4,
-            "topics": [
-              "admet",
-              "ai-agents",
-              "campaign-orchestration",
-              "drug-discovery",
-              "mcp",
-              "openclaw",
-              "portfolio-ranking",
-              "refua"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        }
-      ],
-      "title": "Automated Research Tools"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PASB Framework",
-          "description": "GitHub",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An end-to-end security evaluation framework tailored for real-world personalized agent.",
-            "homepage": null,
-            "id": 1153394641,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-02-28T03:24:45Z",
-            "open_issues": 3,
-            "owner": "AstorYH",
-            "repo": "PASB",
-            "stars": 16,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SkillFortify",
-          "description": "GitHub · PyPI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "First formal security scanner for AI agent skills & plugins. Static analysis, supply chain verification, SBOM generation. 22 frameworks supported including MCP, LangChain, CrewAI.",
-            "homepage": "https://pypi.org/project/skillfortify/",
-            "id": 1167593455,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T11:46:04Z",
-            "open_issues": 5,
-            "owner": "qualixar",
-            "repo": "skillfortify",
-            "stars": 34,
-            "topics": [
-              "agent-security",
-              "ai-agents",
-              "claude-skills",
-              "formal-verification",
-              "mcp-security",
-              "qualixar",
-              "static-analysis",
-              "supply-chain-security"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SecureClaw",
-          "description": "GitHub",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "SecureClaw - Security Plugin and Skill for OpenClaw OWASP-Aligned",
-            "homepage": "https://adversa.ai/",
-            "id": 1154405739,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-04-12T16:40:46Z",
-            "open_issues": 7,
-            "owner": "adversa-ai",
-            "repo": "secureclaw",
-            "stars": 348,
-            "topics": [
-              "agentic-ai",
-              "ai-agents",
-              "ai-security",
-              "llm-security",
-              "openclaw",
-              "openclaw-plugin",
-              "openclaw-security",
-              "openclaw-skills",
-              "owasp",
-              "owasp-llm-top-10"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SlowMist Security Guide",
-          "description": "GitHub",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
-            "homepage": null,
-            "id": 1170475068,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-04-06T05:58:43Z",
-            "open_issues": 7,
-            "owner": "slowmist",
-            "repo": "openclaw-security-practice-guide",
-            "stars": 2853,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        }
-      ],
-      "title": "Security References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PinchBench",
-          "description": "pinchbench.com · GitHub 23 real-world tasks across 8 categories; automated + LLM judge grading",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
-            "homepage": "https://pinchbench.com",
-            "id": 1154980232,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-07-02T01:44:55Z",
-            "open_issues": 26,
-            "owner": "pinchbench",
-            "repo": "skill",
-            "stars": 1356,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        }
-      ],
-      "title": "Benchmarks"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OpenClaw China",
-          "description": "BytePioneer-AI/openclaw-china Domestic IM adaption (3,200+ Stars)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信，微信",
-            "homepage": null,
-            "id": 1143968677,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-06-12T01:58:37Z",
-            "open_issues": 31,
-            "owner": "BytePioneer-AI",
-            "repo": "openclaw-china",
-            "stars": 3964,
-            "topics": [
-              "openclaw",
-              "openclaw-china",
-              "openclaw-dingding",
-              "openclaw-feishu",
-              "openclaw-qq",
-              "openclaw-weixin"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        }
-      ],
-      "title": "Chinese Community & Tutorials"
-    },
-    {
-      "description": "Know a great OpenClaw project we missed? Open a PR and help us keep this list growing!",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SamurAIGPT/awesome-openclaw",
-          "description": "823 Comprehensive list of OpenClaw resources, tools, skills, tutorials & articles",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A source-backed catalog of Meta Muse integrations and community connector skills, with capability, authentication, and permission notes.",
-            "homepage": "https://ai.meta.com/muse/",
-            "id": 784773119,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-29T17:16:20Z",
-            "open_issues": 5,
-            "owner": "Anil-matcha",
-            "repo": "awesome-muse-connectors",
-            "stars": 1175,
-            "topics": [
-              "agent-skills",
-              "agentic-ai",
-              "ai-agents",
-              "ai-tools",
-              "api",
-              "api-integration",
-              "automation",
-              "awesome",
-              "awesome-list",
-              "connector-catalog",
-              "connectors",
-              "developer-tools",
-              "integrations",
-              "llm",
-              "meta-ai",
-              "muse",
-              "muse-connectors",
-              "open-source",
-              "personal-ai",
-              "skills"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mergisi/awesome-openclaw-agents",
-          "description": "830+ 177 production-ready AI agent templates across 24 categories",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!",
-            "homepage": "https://crewclaw.com",
-            "id": 1150496175,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2026-09-26T14:48:03Z",
-            "open_issues": 87,
-            "owner": "mergisi",
-            "repo": "awesome-openclaw-agents",
-            "stars": 3993,
-            "topics": [
-              "ai-agent-templates",
-              "ai-agents",
-              "ai-automation",
-              "anthropic",
-              "automation",
-              "awesome",
-              "awesome-list",
-              "claude",
-              "community-agents",
-              "crewclaw",
-              "docker",
-              "llm",
-              "mcp",
-              "multi-agent",
-              "no-code",
-              "openclaw",
-              "productivity",
-              "soul-md",
-              "submit-your-agent",
-              "telegram-bot"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        },
-        {
-          "node_type": "item",
-          "title": "VoltAgent/awesome-openclaw-skills",
-          "description": "— Community curated skills collection",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
-            "homepage": "https://clawskills.sh/",
-            "id": 1141704318,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-09-29T19:09:45Z",
-            "open_issues": 4,
-            "owner": "VoltAgent",
-            "repo": "awesome-openclaw-skills",
-            "stars": 52908,
-            "topics": [
-              "agent-skills",
-              "awesome",
-              "awesome-list",
-              "awesome-lists",
-              "clawd",
-              "clawdbot",
-              "clawdbot-skill",
-              "clawdhub",
-              "moltbot",
-              "moltbot-skills",
-              "openclaw",
-              "openclaw-skills"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        },
-        {
-          "node_type": "item",
-          "title": "pranciskus/discourse-openclaw",
-          "description": "NEW Discourse forum integration with 12 tools",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "OpenClaw plugin for Discourse forum integration — read, search, filter, and write topics/posts via agent tools",
-            "homepage": null,
-            "id": 1167957162,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-03-02T13:49:00Z",
-            "open_issues": 1,
-            "owner": "pranciskus",
-            "repo": "discourse-openclaw",
-            "stars": 11,
-            "topics": [
-              "ai-agents",
-              "discourse",
-              "discourse-api",
-              "openclaw",
-              "openclaw-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        },
-        {
-          "node_type": "item",
-          "title": "wanikua/ByeByeClaw",
-          "description": "NEW One-command uninstaller for all Claw-family agents",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "One command to uninstall ALL Claw-family AI agents. Zero residue. 一键卸载所有 Claw 家族 AI Agent，无残留。",
-            "homepage": null,
-            "id": 1178511945,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-03-15T17:02:50Z",
-            "open_issues": 1,
-            "owner": "wanikua",
-            "repo": "byebyeclaw",
-            "stars": 75,
-            "topics": [
-              "ai-agent",
-              "claw",
-              "cleanup",
-              "ironclaw",
-              "microclaw",
-              "moltbot",
-              "nanobot",
-              "nanoclaw",
-              "nullclaw",
-              "openclaw",
-              "tinyclaw",
-              "uninstaller",
-              "zeroclaw"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:03.075Z"
-        }
-      ],
-      "title": "Related Repositories"
+      "title": "📦 Other Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:21:49.859Z",
+    "last_updated": "2026-10-03T04:25:33.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦞 Research-oriented collection of papers, analyses & resources on the OpenClaw ecosystem",
